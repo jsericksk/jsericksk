@@ -1,5 +1,5 @@
 <a href="https://github.com/jsericksk">
-  <img src="https://github-readme-stats.vercel.app/api?username=jsericksk&custom_title=My Github Statics&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jsericksk&custom_title=My Github Statics&show_icons=true&theme=midnight-purple&count_private=true" />
   <br/>
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsericksk&layout=compact&langs_count=99&theme=midnight-purple" />
